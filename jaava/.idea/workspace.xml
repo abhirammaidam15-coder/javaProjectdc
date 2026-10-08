@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b993def0-b4e0-4069-9a8b-0578b31d61df" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3GIiYVpzo7Ou7lsOLLlV4o5idJg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Alternativenumbers.executor": "Run",
+    "Application.AmstrongNumber.executor": "Run",
+    "Application.Armstrong.executor": "Run",
+    "Application.AvgFibbinoci.executor": "Run",
+    "Application.Avgfibbinoci.executor": "Run",
+    "Application.Duplicates.executor": "Run",
+    "Application.Lin.executor": "Run",
+    "Application.MAin1.executor": "Run",
+    "Application.Mai2.executor": "Run",
+    "Application.Mai3.executor": "Run",
+    "Application.Mai4.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.MatrixMultiplication.executor": "Run",
+    "Application.MatrixTranspose.executor": "Run",
+    "Application.NumbersIdentifier.executor": "Debug",
+    "Application.Palindrome.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.palindrome.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/ganes/Downloads/demo/jaava/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MatrixTranspose">
+    <configuration name="Alternativenumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alternativenumbers" />
+      <module name="jaava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Armstrong" />
+      <module name="jaava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvgFibbinoci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AvgFibbinoci" />
+      <module name="jaava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Avgfibbinoci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Avgfibbinoci" />
+      <module name="jaava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixTranspose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixTranspose" />
+      <module name="jaava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MatrixTranspose" />
+        <item itemvalue="Application.Armstrong" />
+        <item itemvalue="Application.AvgFibbinoci" />
+        <item itemvalue="Application.Avgfibbinoci" />
+        <item itemvalue="Application.Alternativenumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b993def0-b4e0-4069-9a8b-0578b31d61df" name="Changes" comment="" />
+      <created>1783665536519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783665536519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../java/src/Detailes.java</url>
+          <line>352</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
