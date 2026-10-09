@@ -13,8 +13,5 @@ public class Age {
     public String checker(@RequestParam int age){
         return ageService.checking(age);
     }
-//this is an old project api hkfgr
-//  updating the git version
-    //fhcb
+
 }
-// added this  thif
